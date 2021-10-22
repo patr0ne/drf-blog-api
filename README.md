@@ -26,6 +26,9 @@ python3 manage.py runserver
 ```
 
 #### 5.
-Open a browser to http://127.0.0.1:8000/admin/ to open the admin site
+
+Open a browser to http://127.0.0.1:8000/admin/ to open the admin site  
+
 Open a browser to http://127.0.0.1:8000/swagger/ to open the API documentation
+
 
